@@ -1,3 +1,5 @@
+# https://codeforces.com/problemset/problem/791/A
+
 limak, bob = input().split(' ')
 limak = int(limak)
 bob = int(bob)

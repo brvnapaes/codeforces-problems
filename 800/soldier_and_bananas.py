@@ -1,3 +1,5 @@
+# https://codeforces.com/problemset/problem/546/A
+
 k, n, w = input().split(' ')
 total = 0
 borrow = 0

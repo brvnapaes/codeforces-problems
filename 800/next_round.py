@@ -1,3 +1,5 @@
+# https://codeforces.com/problemset/problem/158/A
+
 n, k = input().split(' ')
 n = int(n)
 k = int(k)

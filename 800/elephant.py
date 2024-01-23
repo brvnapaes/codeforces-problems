@@ -1,3 +1,5 @@
+# https://codeforces.com/problemset/problem/617/A
+
 import math
 
 def main():

@@ -1,3 +1,5 @@
+# https://codeforces.com/problemset/problem/236/A
+
 string = input().lower().strip()
 unique_characters = []
 

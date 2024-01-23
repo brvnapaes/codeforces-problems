@@ -1,3 +1,5 @@
+# https://codeforces.com/problemset/problem/112/A
+
 def main():
     str1 = list(input().lower())
     str2 = list(input().lower())
